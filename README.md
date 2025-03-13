@@ -7,7 +7,7 @@ A passionate Full stack developer from India
 
 💬 Ask me about react Js, node Js
 
-📫 How to reach me rupzkumar5@gmail.com
+📫 How to reach me raushandubey2005@gmail.com
 
 Connect with me:
 raushandubey2005@gmail.com
