@@ -36,6 +36,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
+<!-- Added Languages -->
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+
 ---
 
 ### 📂 Featured Projects
