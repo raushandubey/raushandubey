@@ -37,7 +37,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
 <!-- Added Languages -->
-![Java](https://images.app.goo.gl/bJmmsZros7zWpqix6)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
