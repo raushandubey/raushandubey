@@ -56,10 +56,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushandubey&show_icons=true&theme=radical" alt="stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushandubey&theme=radical" alt="streak" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raushandubey&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushandubey&theme=radical" alt="GitHub Streak" style="width: 48%;"/>
+</div>
+
 
 ---
 
