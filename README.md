@@ -1,81 +1,116 @@
+# Hi, I'm Raushan Dubey
 
-<h1 align="center">Hi 👋, I'm Raushan Dubey</h1>
-<h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushandubey&label=Profile%20views&color=0e75b6&style=flat" alt="raushandubey" />
-</p>
+Software Developer with hands-on experience in full-stack web development and backend systems.  
+Currently working as a Software Development Intern and building production-ready applications using Laravel, React, and modern web technologies.
 
 ---
 
-🔭 I’m currently working on an **AI-Assisted Chat Application** using **MERN Stack**  
-🌱 I’m currently learning **Advanced React.js**, **Cyber Security**, and **DevOps Concepts**  
-💬 Ask me about **MERN Stack**, **JavaScript**, **React**, **Node.js**, **MongoDB**, and **Cybersecurity Basics**  
-📫 Reach me at: [raushandubey2005@gmail.com](mailto:raushandubey2005@gmail.com)  
-🌐 Connect with me: [LinkedIn](https://linkedin.com/in/raushan-dubey01)
+## About Me
+
+- Computer Science Engineering undergraduate
+- Completed **3 software development internships**
+- Strong in **backend development, REST APIs, and database design**
+- Comfortable owning features end-to-end from design to deployment
+- Focused on writing clean, maintainable, and scalable code
 
 ---
 
-### 💼 Current Status
+## Technical Skills
 
-- 🧑‍💻 **Software Developer Intern** at multiple companies  
-- 🛠️ Working on real-world projects including e-commerce, portfolios, and AI-integrated applications  
-- 💡 Exploring new trends in **Digital Tech**, **Web Security**, and **AI Applications**
+**Languages**
+- Java, JavaScript, Python, C, C++
 
----
+**Backend**
+- Laravel, PHP, Node.js, Express.js
+- REST API design and implementation
+- Authentication, authorization, middleware
 
-### 🛠️ Languages & Tools
+**Frontend**
+- React.js, Next.js
+- HTML, CSS, Tailwind, Bootstrap
+- Responsive UI development
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Blade](https://img.shields.io/badge/-Blade-black?style=flat-square&logo=laravel)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+**Databases**
+- MySQL, MongoDB
+- Schema design, query optimization
 
-<!-- Added Languages -->
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+**Tools & Platforms**
+- Git, GitHub
+- VS Code
+- Flutter (mobile apps)
+- Linux basics
 
 ---
 
-### 📂 Featured Projects
+## Experience
 
-🔹 [Mini Project](https://github.com/raushandubey/mini-project) - Basic CSS project  
-🔹 [My Portfolio](https://github.com/raushandubey/myPortfolio1) - Personal Portfolio in HTML/CSS  
-🔹 [ECom Amazon](https://github.com/raushandubey/EComAmazon) - Simple e-commerce website structure  
-🔹 [Intern Project](https://github.com/raushandubey/intern-project) - Internship work archive
+### Laravel Developer Intern — Trapigo (In-office)
+*June 2025 – Present*
+- Built and optimized RESTful APIs using Laravel
+- Designed and managed MySQL databases
+- Implemented authentication, authorization, and role-based access
+- Improved backend performance and security
 
----
+### Software Development Intern — BlueStock Fintech (Pune)
+*Feb 2025 – Mar 2025*
+- Worked on UI/UX using Figma
+- Developed interactive web interfaces
+- Improved user experience through iterative design changes
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushandubey&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushandubey&theme=radical" alt="GitHub Streak" style="width: 49%;"/>
-</div>
-
-
----
-
-### 🙋‍♂️ Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/raushan-dubey01)  
-- 📧 [raushandubey2005@gmail.com](mailto:raushandubey2005@gmail.com)  
-- 🌍 Based in **Dehri, India**
+### Frontend Developer Intern — Ceeras (Remote)
+*Feb 2025 – Jun 2025*
+- Developed responsive UI components
+- Integrated frontend with backend APIs
+- Optimized performance and usability
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## Projects
 
+### Student Internship Hub System
+**Tech:** Laravel, PHP, Blade, MySQL  
+- Internship listing and application system
+- Multi-role access: Admin and Student
+- Application tracking and status management
+- Secure authentication and role-based dashboards
+
+### Bhaktinama
+**Tech:** Laravel, PHP, MySQL, JavaScript  
+- End-to-end pandit appointment scheduling platform
+- Multi-role system with admin and user workflows
+- Database-driven booking and service management
+
+### Advanced Weather App
+**Tech:** Flutter, Dart  
+- Real-time weather updates
+- Location-based forecasts
+- City search functionality
+
+### Healthcare Scheduler (IBM Collaborative Project)
+**Tech:** HTML, CSS, JavaScript, MongoDB  
+- Appointment scheduling system
+- Real-time updates
+- Dual-database architecture
+
+---
+
+## Education
+
+**B.Tech in Computer Science Engineering**  
+Gopal Narayan Singh University, Bihar  
+2022 – Present
+
+---
+
+## Achievements
+
+- Selected in **Top 25 teams** — Code For Bharat Season 2 Hackathon
+- Active contributor on GitHub with consistent project work
+
+---
+
+## Contact
+
+- Email: raushandubey2005@gmail.com
+- LinkedIn: linkedin.com/in/raushandubey01
+- GitHub: github.com/raushandubey
