@@ -1,116 +1,96 @@
-# Hi, I'm Raushan Dubey
+<h1 align="center">Hi 👋, I'm Raushan Dubey</h1>
+<h3 align="center">Software Developer | Backend & Full-Stack Engineering</h3>
 
-Software Developer with hands-on experience in full-stack web development and backend systems.  
-Currently working as a Software Development Intern and building production-ready applications using Laravel, React, and modern web technologies.
-
----
-
-## About Me
-
-- Computer Science Engineering undergraduate
-- Completed **3 software development internships**
-- Strong in **backend development, REST APIs, and database design**
-- Comfortable owning features end-to-end from design to deployment
-- Focused on writing clean, maintainable, and scalable code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raushandubey&label=Profile%20views&color=0e75b6&style=flat" alt="raushandubey" />
+</p>
 
 ---
 
-## Technical Skills
+🔭 Currently working as a **Software Developer Intern**  
+🌱 Focused on **Backend Development, System Design, and Scalable Web Applications**  
+💬 Ask me about **Laravel, PHP, REST APIs, Databases, React, and Full-Stack Development**  
+📫 Reach me at: **raushandubey2005@gmail.com**  
+🌐 Connect with me: [LinkedIn](https://linkedin.com/in/raushan-dubey01)
+
+---
+
+### 💼 Professional Summary
+
+- Computer Science Engineering undergraduate  
+- Hands-on experience in **Laravel, PHP, MySQL, and Full-Stack systems**  
+- Built complete applications with **authentication, role-based access, and dashboards**  
+- Strong understanding of **backend workflows and database-driven systems**  
+- Comfortable working on real-world production-style projects
+
+---
+
+### 🛠 Languages & Tools
 
 **Languages**
 - Java, JavaScript, Python, C, C++
 
 **Backend**
-- Laravel, PHP, Node.js, Express.js
-- REST API design and implementation
-- Authentication, authorization, middleware
+- Laravel, PHP
+- REST API development
+- Authentication & Authorization
 
 **Frontend**
-- React.js, Next.js
+- React.js
 - HTML, CSS, Tailwind, Bootstrap
-- Responsive UI development
 
 **Databases**
 - MySQL, MongoDB
-- Schema design, query optimization
 
-**Tools & Platforms**
-- Git, GitHub
+**Tools**
+- Git & GitHub
 - VS Code
-- Flutter (mobile apps)
 - Linux basics
 
 ---
 
-## Experience
+### 📂 Featured Projects
 
-### Laravel Developer Intern — Trapigo (In-office)
-*June 2025 – Present*
-- Built and optimized RESTful APIs using Laravel
-- Designed and managed MySQL databases
-- Implemented authentication, authorization, and role-based access
-- Improved backend performance and security
+🔹 **Student Internship Hub System**  
+Laravel, PHP, MySQL  
+- Internship listing and application system  
+- Admin & student dashboards  
+- Application tracking and status lifecycle  
+- Secure authentication and role-based access  
 
-### Software Development Intern — BlueStock Fintech (Pune)
-*Feb 2025 – Mar 2025*
-- Worked on UI/UX using Figma
-- Developed interactive web interfaces
-- Improved user experience through iterative design changes
+🔹 **Bhaktinama**  
+Laravel, PHP, MySQL  
+- Appointment scheduling platform  
+- Multi-role system  
+- End-to-end booking workflow  
 
-### Frontend Developer Intern — Ceeras (Remote)
-*Feb 2025 – Jun 2025*
-- Developed responsive UI components
-- Integrated frontend with backend APIs
-- Optimized performance and usability
+🔹 **Healthcare Scheduler (IBM Project)**  
+HTML, CSS, JavaScript, MongoDB  
+- Appointment scheduling system  
+- Real-time updates  
+- Structured database design  
 
----
-
-## Projects
-
-### Student Internship Hub System
-**Tech:** Laravel, PHP, Blade, MySQL  
-- Internship listing and application system
-- Multi-role access: Admin and Student
-- Application tracking and status management
-- Secure authentication and role-based dashboards
-
-### Bhaktinama
-**Tech:** Laravel, PHP, MySQL, JavaScript  
-- End-to-end pandit appointment scheduling platform
-- Multi-role system with admin and user workflows
-- Database-driven booking and service management
-
-### Advanced Weather App
-**Tech:** Flutter, Dart  
-- Real-time weather updates
-- Location-based forecasts
-- City search functionality
-
-### Healthcare Scheduler (IBM Collaborative Project)
-**Tech:** HTML, CSS, JavaScript, MongoDB  
-- Appointment scheduling system
-- Real-time updates
-- Dual-database architecture
+🔹 **Personal Portfolio**  
+HTML, CSS  
+- Responsive personal website  
 
 ---
 
-## Education
+### 📈 GitHub Stats
 
-**B.Tech in Computer Science Engineering**  
-Gopal Narayan Singh University, Bihar  
-2022 – Present
-
----
-
-## Achievements
-
-- Selected in **Top 25 teams** — Code For Bharat Season 2 Hackathon
-- Active contributor on GitHub with consistent project work
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raushandubey&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushandubey&theme=radical" width="49%" />
+</div>
 
 ---
 
-## Contact
+### 🙋‍♂️ Connect With Me
 
-- Email: raushandubey2005@gmail.com
-- LinkedIn: linkedin.com/in/raushandubey01
-- GitHub: github.com/raushandubey
+- 💼 [LinkedIn](https://linkedin.com/in/raushan-dubey01)
+- 📧 raushandubey2005@gmail.com
+- 🌍 Dehri, India
+
+---
+
+> “First make it work. Then make it right. Then make it fast.”
