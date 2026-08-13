@@ -1,249 +1,297 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:111827,70:312E81,100:7C3AED&text=RAUSHAN%20DUBEY&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descAlignY=61&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0F172A,75:1E3A8A,100:2563EB&text=RAUSHAN%20DUBEY&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BACKEND%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20AI&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1500&pause=450&color=67E8F9&center=true&vCenter=true&width=850&lines=%3E+BOOTING...;%3E+BACKEND+ONLINE;%3E+AI+ONLINE;%3E+REAL-TIME+ONLINE;%3E+READY+%E2%96%B6" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=850&lines=Building+production-grade+software;Backend+%7C+Full-Stack+%7C+AI;Laravel+%7C+PHP+%7C+React+%7C+Flutter;APIs+%7C+Real-Time+Systems+%7C+Cloud" alt="Typing animation" />
 
 <br/><br/>
 
-<a href="https://raushandubey.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-PLAY-7C3AED?style=for-the-badge&labelColor=020617"/></a>
-<a href="https://github.com/raushandubey"><img src="https://img.shields.io/badge/⚔_GITHUB-WORK-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/></a>
-<a href="tel:+919934898643"><img src="https://img.shields.io/badge/📞_9934898643-CALL-16A34A?style=for-the-badge&labelColor=020617"/></a>
-<a href="mailto:raushandubey2005@gmail.com"><img src="https://img.shields.io/badge/✉_EMAIL-CHAT-EA4335?style=for-the-badge&labelColor=020617"/></a>
+<a href="https://raushandubey.netlify.app"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-2563EB?style=for-the-badge&labelColor=0B1220"/></a>
+<a href="https://github.com/raushandubey"><img src="https://img.shields.io/badge/⚙%20GITHUB-WORK-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220"/></a>
+<a href="https://linkedin.com/in/raushan-dubey01"><img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0B1220"/></a>
+<a href="tel:+919934898643"><img src="https://img.shields.io/badge/📞%209934898643-CALL-16A34A?style=for-the-badge&labelColor=0B1220"/></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=raushandubey&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
 <div align="center">
 
-╭────────────────────────────────────────────────────────────╮
-│                     RAUSHAN.EXE                            │
-│                                                            │
-│   ⚔ BACKEND     🤖 AI      ⚡ REAL-TIME      ☁ CLOUD      │
-│                                                            │
-│   HP  ████████████████████ 100%                            │
-│   XP  █████████████████░░░  87%                            │
-╰────────────────────────────────────────────────────────────╯
+⚡ ENGINEERING SNAPSHOT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=850&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+OPTIMISE+%E2%86%92+SHIP;Laravel+%7C+PHP+%7C+Node.js+%7C+React+%7C+Flutter;OpenAI+%7C+Redis+%7C+Docker+%7C+AWS" />
+🚀 APIs
 
-</div>
+⚡ Performance
 
-🎮 QUEST
-
-      ┌──────────────┐
-      │   RAUSHAN    │
-      │   ENGINEER   │
-      └──────┬───────┘
-             │
-     ┌───────┼───────┐
-     ▼       ▼       ▼
-   ⚔ API   🤖 AI   ⚡ LIVE
-     │       │       │
-     └───────┼───────┘
-             ▼
-        🚀 SHIP IT
-
-🧙 SKILL TREE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,react,nextjs,flutter,dart,python,mysql,postgres,mongodb,redis,docker,aws,firebase,githubactions,linux,git" width="90%"/>
-
-</div>
-
-⚔ BACKEND
-Laravel • PHP • Node • REST • JWT • RBAC • Redis
-
-🎨 FRONTEND
-React • Next.js • TypeScript • Tailwind
-
-📱 MOBILE
-Flutter • Dart • Firebase
+🌐 Real-Time
 
 🤖 AI
-OpenAI • Anthropic • OpenRouter • Agents
 
-☁ INFRA
-Docker • CI/CD • AWS • Linux
+🧠 DSA
 
-🏆 BOSS FIGHTS
+15+
 
-<div align="center">
-
-🟢 LOCAL KART
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=700&lines=4+APPS;%3C150ms+SYNC;REAL-TIME+WORLD" />
-
-👤 ──► 🏪 ──► 🛵
-        │
-        ▼
-   ⚡ FIRESTORE
-        │
-        ▼
-      👑 ADMIN
-
-Flutter Firebase Firestore Riverpod
-
-4 apps • <150ms sync • KYC state machine • real-time
-
-🟣 STUDENT INTERNSHIP HUB
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+QUEST;%3C2s+OUTPUT;5-STAGE+STATE+MACHINE" />
-
-👤
- │
- ▼
-🤖 AI
- │
- ├──► SCORE
- ├──► MATCH
- └──► JSON
-       │
-       ▼
-     <2s
-
-Laravel PHP MySQL Redis OpenAI Docker
-
-AI pipeline • 5 stages • ~40% fewer repeat DB reads
-
-🔵 PULSE
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=5+PLATFORMS;%3C100ms+MESSAGES;REAL-TIME+CHAT" />
-
-📱  🌐  🐧  🪟  📲
-       │
-       ▼
-   FIRESTORE
-       │
-       ▼
-    FCM / APNs
-
-Flutter Firebase Firestore FCM APNs
-
-5 platforms • <100ms delivery • push routing
-
-🟠 ADFIT AI
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1800&pause=500&color=FB923C&center=true&vCenter=true&width=700&lines=SECURITY+QUEST;SSRF+DEFENSE;SECURE+CRAWLER" />
-
-🔗 URL
- │
- ▼
-🔍 DNS
- │
- ├── 💀 PRIVATE → BLOCK
- │
- └── ⚔ PUBLIC  → CRAWL
-
-Next.js TypeScript Prisma PostgreSQL
-
-SSRF protection • scrypt • AES-256-GCM
-
-</div>
-
-⚔️ STATS
-
-<div align="center">
-
-⚔️
-
-⚡
-
-🌐
-
-🤖
-
-🧠
-
-15+ APIs
-
-30% faster
+30% ↓
 
 <150ms
 
 <2s
 
-150+ DSA
+150+
 
 </div>
 
-🧪 DEBUG ROOM
+👨‍💻 About
 
-╭──────────────────────────────────────────────╮
-│                                              │
-│  REQUEST                                     │
-│    ↓                                         │
-│  VALIDATE                                    │
-│    ↓                                         │
-│  SERVICE                                     │
-│    ↓                                         │
-│  DATABASE ──► CACHE                          │
-│    ↓                                         │
-│  TEST                                        │
-│    ↓                                         │
-│  DEPLOY                                      │
-│                                              │
-│  STATUS: ████████████████████ 100%           │
-│                                              │
-╰──────────────────────────────────────────────╯
+Software Engineer building backend, full-stack, real-time and AI-powered systems.
 
-💼 XP
+Backend        → Laravel • PHP • Node.js • REST APIs
+Frontend       → React • Next.js • TypeScript • Tailwind
+Mobile         → Flutter • Dart • Firebase
+Data           → MySQL • PostgreSQL • MongoDB • Redis
+AI             → OpenAI • Anthropic • OpenRouter
+Infrastructure → Docker • GitHub Actions • AWS • Linux
 
-🟢 TRAPIGO
-Backend • Laravel • PHP • REST
-15+ APIs • 30% latency ↓ • JWT • RBAC • Redis • PHPUnit
+🚀 Featured Work
 
-🔵 CEERAS
-Frontend • React
-6+ modules • 25% delivery cycle ↓ • API • performance
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🟣 BLUESTOCK
-Software Development
-Fintech • UI • 3 A/B flows
+🟢 LocalKart
 
-🏅 ACHIEVEMENTS
+4-App Real-Time Marketplace
+
+Flutter Firebase Firestore Riverpod
+
+Customer
+   ↓
+Merchant
+   ↓
+Delivery
+   ↓
+Admin
+   ↓
+Firestore
+
+<150ms sync
+
+• 4 applications
+• Real-time state
+• KYC state machine
+• Transaction workflows
+• Animated order UI
+
+</td>
+<td width="50%" valign="top">
+
+🟣 Student Internship Hub
+
+AI Career Platform
+
+Laravel PHP MySQL Redis OpenAI
+
+Profile
+   ↓
+AI
+   ↓
+Career Fit
+   ↓
+JSON
+
+<2s output
+
+• 5-stage workflow
+• AI orchestration
+• Audit logging
+• Redis caching
+• Docker + CI/CD
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🔵 Pulse
+
+Real-Time Messaging
+
+Flutter Firebase FCM APNs
+
+iOS ─┐
+Web ─┼→ Firestore → Push
+Linux┤
+Win ─┘
+
+<100ms delivery
+
+• 5 platforms
+• Real-time streams
+• Push notifications
+• Deep links
+
+</td>
+<td width="50%" valign="top">
+
+🟠 AdFit AI
+
+Secure Web Analyzer
+
+Next.js TypeScript Prisma PostgreSQL
+
+URL
+ ↓
+DNS
+ ↓
+Security
+ ↓
+Analysis
+
+Security-first
+
+• SSRF protection
+• scrypt
+• AES-256-GCM
+• PostgreSQL
+
+</td>
+</tr>
+</table>
+
+🧠 Architecture
+
+                    ┌───────────────────┐
+                    │      CLIENTS      │
+                    │ React • Flutter   │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      API LAYER    │
+                    │ REST • JWT • RBAC │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   SERVICE LAYER   │
+                    │ Business • State  │
+                    └─────────┬─────────┘
+                              │
+                 ┌────────────┼────────────┐
+                 ▼            ▼            ▼
+              MySQL        Redis       Firestore
+                 │            │            │
+                 └────────────┼────────────┘
+                              ▼
+                    ┌───────────────────┐
+                    │    AI SERVICES    │
+                    │ OpenAI • Agents   │
+                    └─────────┬─────────┘
+                              ▼
+                    ┌───────────────────┐
+                    │   SHIP & SCALE    │
+                    │ Docker • CI/CD    │
+                    │ AWS • Firebase    │
+                    └───────────────────┘
+
+🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,react,nextjs,typescript,javascript,flutter,dart,python,mysql,postgres,mongodb,redis,docker,aws,firebase,githubactions,linux,git" width="92%" />
+</div>
+
+💼 Experience
+
+🟢 Trapigo
+
+Backend Engineer Intern · Bangalore
+Laravel PHP MySQL Redis REST JWT RBAC PHPUnit
+
+15+ APIs · 30% latency reduction
+
+Production REST APIs
+
+N+1 elimination
+
+Eager loading + indexing
+
+JWT + RBAC
+
+Redis caching
+
+Service-layer architecture
+
+PHPUnit testing
+
+🔵 Ceeras
+
+Frontend Engineer Intern · Remote
+React.js JavaScript REST APIs
+
+6+ modules · 25% faster delivery
+
+Component-driven UI
+
+REST integration
+
+Lazy loading
+
+Memoisation
+
+Code splitting
+
+Production testing
+
+🟣 BlueStock Fintech
+
+Software Development Intern · Pune
+JavaScript HTML CSS Figma
+
+Fintech product development
+
+UI implementation
+
+3 A/B-tested flows
+
+Conversion analysis
+
+🎯 Engineering Focus
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=System+Design;%3E+Distributed+Systems;%3E+Advanced+DSA;%3E+AI+Agentic+Systems;%3E+Database+Optimisation;%3E+Cloud+Architecture" alt="Engineering focus" />
+</div>
+
+🏆 Highlights
 
 <div align="center">
 
-🏆 TOP 25 — CODE FOR BHARAT
-
-🧠 150+ LEETCODE
-
-🎓 B.TECH CSE — 7.8 / 10
+🏆 Top 25 — Code For Bharat Season 2
+🧠 150+ LeetCode
+🎓 B.Tech CSE — 7.8 / 10
 
 </div>
 
-📡 SIGNAL
+📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushandubey&bg_color=020617&color=67E8F9&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=RAUSHAN.EXE" width="96%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=1600&pause=450&color=22C55E&center=true&vCenter=true&width=700&lines=%3E+SCAN...;%3E+BUILD...;%3E+SHIP...;%3E+NEXT+QUEST..." />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushandubey&bg_color=020617&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Raushan%20Dubey%20%E2%80%A2%20Engineering%20Activity" width="96%" />
 </div>
 
-🎯 NEXT QUEST
+📬 Contact
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1700&pause=500&color=FBBF24&center=true&vCenter=true&width=800&lines=SYSTEM+DESIGN;%3E+DISTRIBUTED+SYSTEMS;%3E+ADVANCED+DSA;%3E+AI+AGENTS;%3E+CLOUD" />
-
-</div>
-
-<div align="center">
-
-<a href="https://raushandubey.netlify.app"><img src="https://img.shields.io/badge/▶_PORTFOLIO-START-7C3AED?style=for-the-badge&labelColor=020617"/></a>
-<a href="https://linkedin.com/in/raushan-dubey01"><img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-2563EB?style=for-the-badge&labelColor=020617"/></a>
-<a href="tel:+919934898643"><img src="https://img.shields.io/badge/📞_9934898643-CALL-16A34A?style=for-the-badge&labelColor=020617"/></a>
+<a href="https://raushandubey.netlify.app"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EXPLORE-2563EB?style=for-the-badge"/></a>
+<a href="mailto:raushandubey2005@gmail.com"><img src="https://img.shields.io/badge/✉%20EMAIL-CONTACT-EA4335?style=for-the-badge"/></a>
+<a href="tel:+919934898643"><img src="https://img.shields.io/badge/📞%209934898643-CALL-16A34A?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/raushan-dubey01"><img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge"/></a>
 
 <br/><br/>
 
-          ███████████████████████████
-          █  QUEST COMPLETE?  NO.   █
-          █  NEXT LEVEL LOADING...  █
-          ███████████████████████████
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=22C55E&center=true&vCenter=true&width=650&lines=BUILD+%E2%86%92+MEASURE+%E2%86%92+OPTIMISE+%E2%86%92+SHIP" alt="Footer animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,40:111827,75:312E81,100:7C3AED&animation=fadeIn" width="100%"/>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1E3A8A,100:2563EB&animation=fadeIn" width="100%" />
 
 </div>
