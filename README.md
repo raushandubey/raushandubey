@@ -29,6 +29,9 @@ alt="Engineering highlights"
 <a href="mailto:raushandubey2005@gmail.com">
 <img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-Contact-EA4335?style=for-the-badge&labelColor=020617" />
 </a>
+<a href="tel:+919934898643">
+<img src="https://img.shields.io/badge/%F0%9F%93%9E%20PHONE-9934898643-16A34A?style=for-the-badge&labelColor=020617" />
+</a>
 
 <br/><br/>
 
@@ -62,6 +65,24 @@ ENGINEERING SNAPSHOT
 <2s
 
 5
+
+</div>
+
+<div align="center">
+
+⚡ ENGINEERING MOTION
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=850&lines=Design+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy;API+%E2%86%92+Cache+%E2%86%92+Database+%E2%86%92+Cloud;Event+%E2%86%92+State+Machine+%E2%86%92+Real-Time+Update;Prompt+%E2%86%92+LLM+%E2%86%92+Structured+Output+%E2%86%92+Action"
+alt="Engineering workflow animation"
+/>
+
+<br/>
+
+<img
+src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,flutter,python,mysql,postgres,redis,docker,aws"
+alt="Technology stack"
+/>
 
 </div>
 
@@ -168,6 +189,15 @@ AI Career Analysis
 
 04  Production delivery
     └── Docker + GitHub Actions + automated test gates + cloud infrastructure
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=600&color=38BDF8&center=true&vCenter=true&width=900&lines=LOCALKART+%7C+REAL-TIME+MARKETPLACE;STUDENT+INTERNSHIP+HUB+%7C+AGENTIC+AI;PULSE+%7C+CROSS-PLATFORM+MESSAGING;ADFIT+AI+%7C+SECURE+WEB+ANALYSIS"
+alt="Featured systems animation"
+/>
+
+</div>
 
 03 / SELECTED SYSTEMS
 
@@ -598,6 +628,10 @@ alt="Open roles"
 <img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-LET'S%20TALK-EA4335?style=for-the-badge" />
 </a>
 
+<a href="tel:+919934898643">
+<img src="https://img.shields.io/badge/%F0%9F%93%9E%20PHONE-9934898643-16A34A?style=for-the-badge" />
+</a>
+
 <br/><br/>
 
 <a href="https://linkedin.com/in/raushan-dubey01">
@@ -607,6 +641,12 @@ alt="Open roles"
 <a href="https://github.com/raushandubey">
 <img src="https://img.shields.io/badge/GITHUB-RAUSHANDUBEY-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
+
+<div align="center">
+
+📞 9934898643  •  ✉️ raushandubey2005@gmail.com  •  🌐 raushandubey.netlify.app
 
 </div>
 
