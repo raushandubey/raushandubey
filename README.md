@@ -1,665 +1,305 @@
 <div align="center">
 
-<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:111827,75:312E81,100:7C3AED&text=RAUSHAN%20DUBEY&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BACKEND%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20AI&descAlignY=61&descSize=18&animation=fadeIn" width="100%" />
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:0F172A,75:0C4A6E,100:0369A1&text=RAUSHAN%20DUBEY&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BACKEND%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20AI&descAlignY=61&descSize=18&animation=fadeIn"
-width="100%"
-alt="Raushan Dubey"
-/>
-
-<br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+production-grade+software.;15%2B+REST+APIs+shipped.;30%25+API+latency+reduction.;%3C150ms+real-time+state+synchronisation.;%3C2s+agentic+AI+career+analysis.;Backend+%7C+Full-Stack+%7C+AI+%7C+Cloud"
-alt="Engineering highlights"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+RAUSHAN.EXE...;%3E+BACKEND+SYSTEM+ONLINE;%3E+AI+ENGINE+ONLINE;%3E+REAL-TIME+SYSTEM+ONLINE;%3E+READY+TO+BUILD+%E2%96%B6" alt="Game style animation" />
 
 <br/><br/>
 
-<a href="https://raushandubey.netlify.app">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-Visit%20Portfolio-0EA5E9?style=for-the-badge&labelColor=020617" />
-</a>
-<a href="https://github.com/raushandubey">
-<img src="https://img.shields.io/badge/%E2%9A%99%20GITHUB-View%20Engineering%20Work-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
-</a>
-<a href="https://linkedin.com/in/raushan-dubey01">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-Connect-2563EB?style=for-the-badge&labelColor=020617" />
-</a>
-<a href="mailto:raushandubey2005@gmail.com">
-<img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-Contact-EA4335?style=for-the-badge&labelColor=020617" />
-</a>
-<a href="tel:+919934898643">
-<img src="https://img.shields.io/badge/%F0%9F%93%9E%20PHONE-9934898643-16A34A?style=for-the-badge&labelColor=020617" />
-</a>
+<a href="https://raushandubey.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-PLAY-7C3AED?style=for-the-badge&labelColor=09090B" /></a>
+<a href="https://github.com/raushandubey"><img src="https://img.shields.io/badge/⚔_GITHUB-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=09090B" /></a>
+<a href="https://linkedin.com/in/raushan-dubey01"><img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-2563EB?style=for-the-badge&labelColor=09090B" /></a>
+<a href="tel:+919934898643"><img src="https://img.shields.io/badge/📞_CALL-9934898643-16A34A?style=for-the-badge&labelColor=09090B" /></a>
 
 <br/><br/>
-
-<img
-src="https://komarev.com/ghpvc/?username=raushandubey&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge"
-alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=raushandubey&label=VISITORS&color=7C3AED&style=for-the-badge" />
 
 </div>
 
 <div align="center">
 
-ENGINEERING SNAPSHOT
+🎮 RAUSHAN.EXE
 
-🚀 APIs
+SOFTWARE ENGINEER
 
-⚡ Performance
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=850&lines=Build+%E2%96%B6+Break+%E2%96%B6+Debug+%E2%96%B6+Optimise+%E2%96%B6+Ship;Laravel+%7C+PHP+%7C+Node.js+%7C+React+%7C+Flutter;AI+%7C+Redis+%7C+Docker+%7C+AWS+%7C+Firebase" alt="Skills animation" />
 
-🌐 Real-Time
+</div>
+
+🕹️ PLAYER PROFILE
+
+╔══════════════════════════════════════════════════════════════╗
+║                    PLAYER: RAUSHAN DUBEY                    ║
+╠══════════════════════════════════════════════════════════════╣
+║ CLASS        : SOFTWARE ENGINEER                            ║
+║ SPECIALITY   : BACKEND / FULL-STACK / AI                    ║
+║ MAIN WEAPON  : Laravel + PHP + REST APIs                    ║
+║ SECONDARY    : React + Next.js + Flutter                    ║
+║ DATABASE     : MySQL + PostgreSQL + Redis + Firestore       ║
+║ INFRA        : Docker + GitHub Actions + AWS                ║
+║ CURRENT QUEST: System Design + DSA + AI Systems             ║
+╚══════════════════════════════════════════════════════════════╝
+
+<div align="center">
+
+⭐ XP
+
+⚡ SPEED
+
+🌐 SYNC
 
 🤖 AI
 
-📱 Platforms
+🏆 RANK
 
-15+
+150+ LeetCode
 
-30% ↓
+30% ↓ API latency
 
 <150ms
 
 <2s
 
-5
+Top 25
 
 </div>
 
-<div align="center">
+🗺️ QUEST LOG
 
-⚡ ENGINEERING MOTION
+MAIN QUEST
+│
+├── ⚔️ Build production-grade backend systems
+├── 🧩 Design scalable architectures
+├── 🤖 Build useful AI-powered workflows
+├── ⚡ Optimise slow systems
+└── 🚀 Ship software that actually works
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=850&lines=Design+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy;API+%E2%86%92+Cache+%E2%86%92+Database+%E2%86%92+Cloud;Event+%E2%86%92+State+Machine+%E2%86%92+Real-Time+Update;Prompt+%E2%86%92+LLM+%E2%86%92+Structured+Output+%E2%86%92+Action"
-alt="Engineering workflow animation"
-/>
+CURRENT LOADOUT
 
-<br/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,react,nextjs,flutter,dart,python,mysql,postgres,mongodb,redis,docker,aws,firebase,githubactions,linux,git" alt="Tech stack" />
 
-<img
-src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,flutter,python,mysql,postgres,redis,docker,aws"
-alt="Technology stack"
-/>
+🧙‍♂️ SKILL TREE
 
-</div>
+                         ┌───────────────┐
+                         │ SOFTWARE ENG. │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+        ⚔️ BACKEND          🎨 FULL-STACK       🤖 AI
+              │                  │                  │
+       Laravel / PHP       React / Next.js     OpenAI
+       Node / Express      Flutter / Dart      Anthropic
+       REST / JWT          TypeScript          OpenRouter
+       RBAC / Redis        Tailwind            LLM Agents
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                                 ▼
+                         ☁️ INFRASTRUCTURE
+                                 │
+                   Docker / CI-CD / AWS / Firebase
 
-01 / WHO I AM
+🏆 BOSS FIGHTS
 
-I am a Software Engineer focused on building backend systems, full-stack products, real-time applications, and AI-powered workflows.
+🟢 LOCAL KART
 
-My engineering work spans the full path from database design and API architecture to frontend/mobile delivery, testing, CI/CD, and cloud infrastructure.
+4-APP REAL-TIME MARKETPLACE
 
-                         SOFTWARE ENGINEERING
+Flutter · Dart · Riverpod · Firestore · Firebase Auth · Cloud Functions · FCM
 
- ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
- │   PRODUCT    │ ──► │ ARCHITECTURE │ ──► │   BACKEND    │
- └──────────────┘     └──────────────┘     └──────┬───────┘
-                                                   │
-                         ┌─────────────────────────┘
-                         ▼
-                  ┌──────────────┐
-                  │  DATABASES   │
-                  │ MySQL Redis  │
-                  │ PostgreSQL   │
-                  │ Firestore    │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │  CLIENT APPS │
-                  │ React Flutter│
-                  │ Next.js Web  │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │ TEST + SHIP  │
-                  │ Docker CI/CD │
-                  │ AWS Firebase │
-                  └──────────────┘
+       👤 CUSTOMER
+            │
+       🏪 MERCHANT
+            │
+       🛵 DELIVERY
+            │
+       👑 ADMIN
+            │
+            ▼
+     ┌──────────────┐
+     │  FIRESTORE   │
+     │ REAL-TIME DB │
+     └──────┬───────┘
+            ▼
+         <150ms
 
-What I bring
-
-Backend: Laravel, PHP 8.2, Node.js, Express.js, REST APIs
-
-Architecture: Service Layer, State Machines, Event-Driven Systems, SOLID, Distributed Systems
-
-Data: MySQL, PostgreSQL, MongoDB, Redis, Firestore, indexing and query optimisation
-
-Frontend: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
-
-Mobile: Flutter, Dart, Riverpod, GoRouter
-
-AI: OpenAI API, Anthropic API, OpenRouter, LLM orchestration, structured outputs
-
-Infrastructure: Docker, GitHub Actions, CI/CD, AWS, Firebase, Linux
-
-Quality: PHPUnit, Postman, API testing, integration testing, regression testing
-
-02 / ENGINEERING IMPACT
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-15+
-
-Production API Endpoints
-
-</td>
-<td align="center" width="25%">
-
-30%
-
-API Latency Reduction
-
-</td>
-<td align="center" width="25%">
-
-<150ms
-
-Real-Time Sync
-
-</td>
-<td align="center" width="25%">
-
-<2s
-
-AI Career Analysis
-
-</td>
-</tr>
-</table>
-
-</div>
-
-01  Backend performance
-    └── N+1 elimination + eager loading + MySQL indexing
-
-02  Distributed application
-    └── 4-app marketplace sharing real-time backend state
-
-03  AI engineering
-    └── Multi-step LLM pipeline returning structured career-fit output
-
-04  Production delivery
-    └── Docker + GitHub Actions + automated test gates + cloud infrastructure
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=600&color=38BDF8&center=true&vCenter=true&width=900&lines=LOCALKART+%7C+REAL-TIME+MARKETPLACE;STUDENT+INTERNSHIP+HUB+%7C+AGENTIC+AI;PULSE+%7C+CROSS-PLATFORM+MESSAGING;ADFIT+AI+%7C+SECURE+WEB+ANALYSIS"
-alt="Featured systems animation"
-/>
-
-</div>
-
-03 / SELECTED SYSTEMS
-
-🟢 LOCALKART
-
-Multi-App Hyperlocal Marketplace
-
-Flutter 3.x · Dart · Riverpod 2 · Firestore · Firebase Auth · Cloud Functions · FCM
-
-<div align="center">
-
-┌─────────────┐      ┌─────────────┐
-│   CUSTOMER  │      │  MERCHANT   │
-└──────┬──────┘      └──────┬──────┘
-       │                    │
-       └─────────┬──────────┘
-                 ▼
-        ┌─────────────────┐
-        │    FIRESTORE    │
-        │  REAL-TIME DATA │
-        └────────┬────────┘
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
-┌──────────────┐   ┌──────────────┐
-│   DELIVERY   │   │ SUPER ADMIN  │
-└──────────────┘   └──────────────┘
-
-        REAL-TIME STATE
-            <150ms
-
-</div>
-
-System characteristics
-
-4-app ecosystem: Customer, Merchant, Delivery Partner, Super Admin
-
-Single shared Firestore backend
-
-Real-time multi-user synchronisation
-
-<150ms state synchronisation latency
-
-Event-driven architecture
-
-Reactive StreamProviders
-
-3-stage KYC state machine
-
-Firestore transaction batch writes
-
-Custom animated order invitation UI
-
-Bezier-path route visualisation
-
-Cross-platform delivery across iOS, Android and Web
+ABILITIES UNLOCKED: 4 applications · real-time sync · <150ms updates · transactional KYC · reactive state · animated order UI · Bezier route visualisation
 
 🟣 STUDENT INTERNSHIP HUB
 
-Agentic AI Career Platform
+AGENTIC AI CAREER PLATFORM
 
-Laravel · PHP 8.2 · MySQL · Redis · OpenAI API · Docker · GitHub Actions
+Laravel · PHP · MySQL · Redis · OpenAI · Docker · GitHub Actions
 
-<div align="center">
+APPLIED → REVIEW → SHORTLISTED → INTERVIEW → DECISION
+                         │
+                         ▼
+                  🤖 AI ENGINE
+                         │
+                 PROFILE → LLM
+                         │
+                  CAREER FIT
+                         │
+                       <2s
 
-                    CANDIDATE
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   AI PIPELINE   │
-              ├─────────────────┤
-              │ Profile         │
-              │      ↓          │
-              │ LLM Analysis    │
-              │      ↓          │
-              │ Career Fit      │
-              │      ↓          │
-              │ Structured JSON │
-              └────────┬────────┘
-                       │
-                       ▼
-                      <2s
-
-     ┌────────────────────────────────────────┐
-     │         HIRING STATE MACHINE           │
-     ├────────────────────────────────────────┤
-     │ Applied → Review → Shortlisted         │
-     │              → Interview → Decision    │
-     └────────────────────────────────────────┘
-
-</div>
-
-System characteristics
-
-5-stage event-sourced hiring workflow
-
-Full audit logging
-
-Autonomous multi-step AI pipeline
-
-OpenAI API integration
-
-Structured career-fit scoring
-
-<2s AI response
-
-Redis caching
-
-Approximately 40% reduction in repeat database reads
-
-Dockerised Laravel application
-
-GitHub Actions CI/CD
-
-Automated test gates
-
-Recruiter, student and admin workflows
-
-Service-layer architecture
+ABILITIES UNLOCKED: 5-stage state machine · audit logging · AI pipeline · structured scoring · <2s response · ~40% repeat DB-read reduction · Redis · Docker · CI/CD
 
 🔵 PULSE
 
-Cross-Platform Real-Time Messaging
+5-PLATFORM REAL-TIME MESSAGING
 
-Flutter · Dart · Firebase Firestore · Cloud Functions · FCM · APNs
+Flutter · Firebase · Firestore · Cloud Functions · FCM · APNs
 
-<div align="center">
+📱 iOS ──────┐
+📱 Android ──┤
+🌐 Web ──────┼──► FIRESTORE ──► CLOUD FUNCTION
+🐧 Linux ────┤                         │
+🪟 Windows ──┘                    ┌────┴────┐
+                                  ▼         ▼
+                                 FCM       APNs
 
- iOS ──────┐
- Android ──┤
- Web ──────┤
- Linux ────┼────► FIRESTORE STREAMS
- Windows ──┘             │
-                         ▼
-                 NODE.JS FUNCTION
-                         │
-                ┌────────┴────────┐
-                ▼                 ▼
-               FCM               APNs
-
-</div>
-
-System characteristics
-
-One codebase across 5 platforms
-
-iOS, Android, Web, Linux and Windows
-
-Sub-100ms message delivery
-
-Firestore real-time streams
-
-Node.js Cloud Functions
-
-FCM and APNs notification dispatch
-
-Deep-link payloads
-
-Foreground/background/terminated state handling
-
-Offline MockNotificationService fallback
+ABILITIES UNLOCKED: 5 platforms · sub-100ms delivery · push notifications · deep links · background handling · offline fallback
 
 🟠 ADFIT AI
 
-Ad-to-Landing Page Fit Analyzer
+SECURITY-FOCUSED WEB ANALYSER
 
-Next.js 15 · TypeScript · Prisma · PostgreSQL · Node.js Crypto · Zod
+Next.js · TypeScript · Prisma · PostgreSQL · Node.js · Zod
+
+🔗 URL → DNS CHECK → ┌─ PRIVATE / LOOPBACK → 💀 BLOCK
+                     └─ PUBLIC TARGET → ⚔️ CRAWL → ANALYSE
+
+ABILITIES UNLOCKED: custom auth · scrypt · AES-256-GCM · PostgreSQL · JSON fallback · SSRF protection · private subnet blocking
+
+⚔️ COMBAT STATS
 
 <div align="center">
 
-URL
- │
- ▼
-DNS RESOLUTION
- │
- ├──── LOOPBACK / PRIVATE ────► BLOCK
- │
- └──── PUBLIC TARGET ─────────► CRAWL
-                                  │
-                                  ▼
-                               ANALYSE
+ATTRIBUTE
+
+STAT
+
+🧠 Problem Solving
+
+150+ LeetCode
+
+⚔️ API Engineering
+
+15+ Production APIs
+
+⚡ Performance
+
+30% Latency ↓
+
+🌐 Real-Time Systems
+
+<150ms Sync
+
+🤖 AI Engineering
+
+<2s Output
+
+📱 Cross-Platform
+
+5 Platforms
+
+🚀 Frontend Delivery
+
+25% Faster
+
+💾 Database Optimisation
+
+~40% Reads ↓
 
 </div>
 
-Security characteristics
+🎒 INVENTORY
 
-Custom cookie authentication
+⚔️ Backend  Laravel PHP 8.2 Node.js Express.js REST APIs JWT RBAC Eloquent Redis
 
-scrypt password hashing
+🎨 Frontend  React.js Next.js TypeScript JavaScript Tailwind CSS
 
-AES-256-GCM
+📱 Mobile  Flutter Dart Riverpod GoRouter Dio
 
-Prisma ORM
+💾 Data  MySQL PostgreSQL MongoDB Redis Firestore
 
-Neon PostgreSQL
+🤖 AI  OpenAI API Anthropic API OpenRouter LLM Orchestration Agentic Pipelines
 
-JSON fallback for offline testing
+☁️ Infra  Docker GitHub Actions AWS Firebase Linux CI/CD
 
-DNS-based SSRF protection
+💼 XP HISTORY
 
-Loopback/private subnet rejection
+🟢 TRAPIGO · Backend Engineer Intern
 
-04 / PROFESSIONAL EXPERIENCE
+Bangalore · Jun 2025 – Sep 2025
 
-TRAPIGO
+15+ APIs · 30% latency ↓ · N+1 elimination · MySQL indexing · Redis · JWT · RBAC · PHPUnit
 
-Backend Engineer Intern
+🔵 CEERAS · Frontend Engineer Intern
 
-Jun 2025 – Sep 2025 · Bangalore, India
+Remote · Feb 2025 – Jun 2025
 
-Laravel · PHP 8.2 · MySQL · Redis · REST APIs · JWT · RBAC · PHPUnit
+6+ React modules · 25% faster delivery · REST APIs · Lazy loading · Memoisation · Code splitting
 
-Architected and shipped 15+ production RESTful API endpoints consumed by Flutter mobile and React web clients.
+🟣 BLUESTOCK FINTECH · Software Development Intern
 
-Achieved 30% reduction in average API response latency through N+1 query elimination, eager loading and MySQL indexing.
+Pune · Feb 2025 – Mar 2025
 
-Implemented JWT authentication, RBAC and middleware-based access control.
+Fintech UI · A/B testing · 3 product flows · Conversion analysis
 
-Designed normalised MySQL schemas with referential integrity and versioned migrations.
+🧪 DEBUG MODE
 
-Implemented Redis session caching on high-frequency endpoints.
+╔══════════════════════════════════════════════════════════════╗
+║                      DEBUG MODE: ON                         ║
+╠══════════════════════════════════════════════════════════════╣
+║ REQUEST → VALIDATE → SERVICE → DATABASE → CACHE             ║
+║    ↓         ↓          ↓          ↓         ↓               ║
+║  TEST → BUILD → CONTAINERISE → CI/CD → DEPLOY               ║
+║                                                              ║
+║ STATUS: ████████████████████████████████████ 100%            ║
+╚══════════════════════════════════════════════════════════════╝
 
-Applied Controller → Service → Model separation.
-
-Authored PHPUnit tests for service-layer business logic.
-
-Participated in code reviews, sprint planning and technical design discussions.
-
-CEERAS
-
-Frontend Engineer Intern
-
-Feb 2025 – Jun 2025 · Remote
-
-React.js · JavaScript · REST APIs · Figma
-
-Built and delivered 6+ production React.js feature modules.
-
-Reduced design-to-implementation cycle time by 25% through component-driven architecture and shared design patterns.
-
-Integrated REST APIs with client-side state management.
-
-Applied lazy loading, memoisation and dynamic code splitting.
-
-Worked with production performance optimisation and integration testing.
-
-Collaborated through Git branching, pull requests and remote development workflows.
-
-BLUESTOCK FINTECH
-
-Software Development Intern
-
-Feb 2025 – Mar 2025 · Pune, India
-
-JavaScript · HTML · CSS · Figma
-
-Contributed to fintech product development and UI implementation.
-
-Conducted A/B testing across 3 product flows.
-
-Analysed user interaction and conversion behaviour.
-
-Iterated product interfaces based on observed engagement metrics.
-
-05 / TECHNICAL MATRIX
+🏅 ACHIEVEMENTS
 
 <div align="center">
 
-Area
-
-Technologies
-
-Backend
-
-Laravel, PHP 8.2, Node.js, Express.js, REST APIs, JWT, RBAC, Sanctum, Eloquent
-
-Frontend
-
-React.js 18, Next.js 14/15, TypeScript, JavaScript, Tailwind CSS, Bootstrap
-
-Mobile
-
-Flutter 3.x, Dart 3.9, Riverpod 2, GoRouter 14, Dio 5
-
-Databases
-
-MySQL, PostgreSQL, MongoDB, Redis, Firestore
-
-AI
-
-OpenAI API, Anthropic API, OpenRouter, LLM Orchestration, Agentic Pipelines
-
-Cloud
-
-AWS EC2, S3, IAM, RDS, Lambda, Firebase
-
-DevOps
-
-Docker, Docker Compose, GitHub Actions, CI/CD, Linux
-
-Testing
-
-PHPUnit, Postman, Unit Testing, Integration Testing, API Testing, Regression Testing
-
-Engineering
-
-System Design, Distributed Systems, OOP, SOLID, State Machines, Event-Driven Architecture
-
-Tools
-
-Git, GitHub, Figma, Composer, npm, Vite, Webpack, Android Studio, Xcode
+🏆 CODE FOR BHARAT SEASON 2 — TOP 25 TEAMS
+🧠 150+ LEETCODE PROBLEMS
+🎓 B.TECH CSE — CGPA 7.8/10
 
 </div>
 
-06 / ENGINEERING PRINCIPLES
-
-┌───────────────────────────────────────────────────────────┐
-│                    HOW I ENGINEER                         │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  DESIGN                                                   │
-│  └── Define boundaries before writing implementation      │
-│                                                           │
-│  DATA                                                     │
-│  └── Model relationships, indexes and transactions first  │
-│                                                           │
-│  BACKEND                                                  │
-│  └── Keep business logic outside controllers              │
-│                                                           │
-│  PERFORMANCE                                              │
-│  └── Measure before optimising                            │
-│                                                           │
-│  SECURITY                                                 │
-│  └── Validate input, auth boundaries and network targets  │
-│                                                           │
-│  DELIVERY                                                 │
-│  └── Test → Containerise → Automate → Deploy              │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-
-07 / COMPUTER SCIENCE
-
-Data Structures & Algorithms
-
-Arrays · Hash Maps · Strings · Recursion · Two Pointers · Sorting · Trees · Graphs · Dynamic Programming
-
-Core Engineering
-
-OOP · DBMS · Operating Systems · Computer Networks · System Design · Compiler Design · SOLID
-
-Architecture
-
-MVC · Service Layer · Repository Pattern · State Machines · Event-Driven Architecture · Distributed Systems · Microservices
-
-08 / ACHIEVEMENTS
+📡 GITHUB SIGNAL
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/CODE%20FOR%20BHARAT-TOP%2025%20TEAMS-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LEETCODE-150%2B%20PROBLEMS-FFA116?style=for-the-badge" />
-<img src="https://img.shields.io/badge/B.TECH-CGPA%207.8%2F10-2563EB?style=for-the-badge" />
-
-</div>
-
-🏆 Top 25 Teams — Code For Bharat Season 2
-
-🧠 150+ LeetCode problems solved
-
-🎓 B.Tech Computer Science Engineering, 2022–2026
-
-📚 Coursework across DSA, OOP, DBMS, OS, Networks and System Design
-
-09 / GITHUB ACTIVITY
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=raushandubey&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=RAUSHAN%20DUBEY%20%E2%80%A2%20ENGINEERING%20ACTIVITY"
-width="96%"
-alt="GitHub Engineering Activity"
-/>
-
-</div>
-
-10 / CURRENT ENGINEERING FOCUS
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=850&lines=System+Design;Distributed+Systems;Advanced+DSA;Backend+Architecture;AI+Agentic+Systems;Database+Optimisation;Cloud+%26+CI%2FCD"
-alt="Current Engineering Focus"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushandubey&bg_color=050816&color=67E8F9&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=RAUSHAN.EXE%20%E2%80%A2%20COMMIT%20SIGNAL" width="96%" alt="GitHub activity" />
 
 <br/><br/>
 
-SYSTEM DESIGN  ·  BACKEND ARCHITECTURE  ·  AI SYSTEMS  ·  PERFORMANCE  ·  CLOUD
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=700&color=22C55E&center=true&vCenter=true&width=700&lines=%3E+Scanning+repositories...;%3E+Analysing+systems...;%3E+Shipping+features...;%3E+Quest+continues..." alt="GitHub signal animation" />
 </div>
 
-11 / EDUCATION
+🎯 NEXT QUEST
 
-B.Tech Computer Science Engineering
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1900&pause=600&color=FBBF24&center=true&vCenter=true&width=850&lines=SYSTEM+DESIGN;%3E+DISTRIBUTED+SYSTEMS;%3E+ADVANCED+DSA;%3E+AI+AGENTIC+SYSTEMS;%3E+DATABASE+OPTIMISATION;%3E+CLOUD+ARCHITECTURE" alt="Next quest animation" />
+</div>
 
-Gopal Narayan Singh University, Bihar, India
-
-2022 – 2026 · CGPA: 7.8 / 10
-
-Core Coursework:
-
-Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · System Design · Compiler Design
-
-12 / OPEN TO ENGINEERING OPPORTUNITIES
+📞 START A QUEST
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=Backend+Engineering;Software+Engineering;Full-Stack+Engineering;AI+Engineering"
-alt="Open roles"
-/>
+<a href="https://raushandubey.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-ENTER-7C3AED?style=for-the-badge&labelColor=09090B" /></a>
+<a href="mailto:raushandubey2005@gmail.com"><img src="https://img.shields.io/badge/✉_EMAIL-CONTACT-EA4335?style=for-the-badge&labelColor=09090B" /></a>
+<a href="tel:+919934898643"><img src="https://img.shields.io/badge/📞_PHONE-9934898643-16A34A?style=for-the-badge&labelColor=09090B" /></a>
+<a href="https://linkedin.com/in/raushan-dubey01"><img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-2563EB?style=for-the-badge&labelColor=09090B" /></a>
 
 <br/><br/>
 
-<a href="https://raushandubey.netlify.app">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-EXPLORE%20MY%20WORK-0EA5E9?style=for-the-badge" />
-</a>
+RAUSHAN.EXE  •  READY
 
-<a href="mailto:raushandubey2005@gmail.com">
-<img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL-LET'S%20TALK-EA4335?style=for-the-badge" />
-</a>
-
-<a href="tel:+919934898643">
-<img src="https://img.shields.io/badge/%F0%9F%93%9E%20PHONE-9934898643-16A34A?style=for-the-badge" />
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/raushan-dubey01">
-<img src="https://img.shields.io/badge/LINKEDIN-RAUSHAN%20DUBEY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/raushandubey">
-<img src="https://img.shields.io/badge/GITHUB-RAUSHANDUBEY-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-
-📞 9934898643  •  ✉️ raushandubey2005@gmail.com  •  🌐 raushandubey.netlify.app
-
-</div>
-
-<div align="center">
-
-BUILD → MEASURE → OPTIMISE → SHIP
-
-<br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,50:0C4A6E,100:0369A1&animation=fadeIn"
-width="100%"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050816,45:111827,75:312E81,100:7C3AED&animation=fadeIn" width="100%" />
 
 </div>
